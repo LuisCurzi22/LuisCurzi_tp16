@@ -1,0 +1,16 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "main": "(datosBici.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "json"
+  ],
+  "author": "LuisCurzi22",
+  "license": "ISC",
+  "description": ""
+}

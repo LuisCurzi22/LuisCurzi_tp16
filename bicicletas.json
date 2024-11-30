@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "marca": "Fierce",
+        "modelo": "FM18SI29AM211",
+        "rodado": 29,
+        "anio_fabricacion": 2021,
+        "color": "Negro",
+        "peso_kg": 15,
+        "tipo": "Montañera",
+        "precio": 120000,
+        "vendida": false
+    },
+    {
+        "id": 2,
+        "marca": "Shifter",
+        "modelo": "FM18F29AM210",
+        "rodado": 28,
+        "anio_fabricacion": 2020,
+        "color": "Gris",
+        "peso_kg": 13,
+        "tipo": "Paseo",
+        "precio": 95000,
+        "vendida": true
+    },
+    {
+        "id": 3,
+        "marca": "Olmo",
+        "modelo": "Regal",
+        "rodado": 26,
+        "anio_fabricacion": 2019,
+        "color": "Rojo",
+        "peso_kg": 16,
+        "tipo": "Retro",
+        "precio": 80000,
+        "vendida": false
+    },
+    {
+        "id": 4,
+        "marca": "Battle",
+        "modelo": "Sunshine",
+        "rodado": 29,
+        "anio_fabricacion": 2022,
+        "color": "Verde",
+        "peso_kg": 17,
+        "tipo": "Montañera",
+        "precio": 130000,
+        "vendida": true
+    },
+    {
+        "id": 5,
+        "marca": "TopMega",
+        "modelo": "Techno",
+        "rodado": 16,
+        "anio_fabricacion": 2021,
+        "color": "Amarillo",
+        "peso_kg": 13,
+        "tipo": "Triatlón",
+        "precio": 150000,
+        "vendida": false
+    },
+    {
+        "id": 6,
+        "marca": "Halley",
+        "modelo": "Ruta",
+        "rodado": 28,
+        "anio_fabricacion": 2023,
+        "color": "Naranja",
+        "peso_kg": 14,
+        "tipo": "Paseo",
+        "precio": 110000,
+        "vendida": true
+    },
+    {
+        "id": 7,
+        "marca": "Fixie",
+        "modelo": "FM18SI29AM211",
+        "rodado": 29,
+        "anio_fabricacion": 2020,
+        "color": "Rosa",
+        "peso_kg": 15,
+        "tipo": "Retro",
+        "precio": 105000,
+        "vendida": false
+    },
+    {
+        "id": 8,
+        "marca": "SLP",
+        "modelo": "FM18F29AM210",
+        "rodado": 26,
+        "anio_fabricacion": 2022,
+        "color": "Celeste",
+        "peso_kg": 16,
+        "tipo": "Montañera",
+        "precio": 95000,
+        "vendida": true
+    }
+]
